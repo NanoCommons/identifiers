@@ -37,8 +37,10 @@ The following bits of information are welcome but not required (in random order)
 * a webpage
 * a provider, contact, or project name
 
-Keep in mind that provided data is provided to the registry under the [CCZero license](LICENSE.md).
+Keep in mind that provided data is provided to the registry under the [CCZero license](license.md).
 
 ## Providing data
+
+[This document](register.md) explains how to register new materials.
 
 
