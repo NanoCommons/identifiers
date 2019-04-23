@@ -5,7 +5,7 @@ identifiers to be used by research projects throughout the life cycle of their p
 identifier is nothing more than that identifier, and not by default linked to any information.
 Think of it as a pre-registration of the intention to study the material.
 
-More information is provided in this [README](README.md).
+More information is provided in this [README](readme.md).
 
 ## How to register new materials
 
