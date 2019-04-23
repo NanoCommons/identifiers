@@ -16,3 +16,22 @@ The identifier can be used in two ways. For regular writing, it can be used as i
 form. For semantic web approaches, the full IRI can be used. Both will be considered equivalent
 and refer to the same identifier.
 
+## The associated information
+
+To encourage wide adoption, the information that the registry will provide is kept to a minimum.
+This registry is not a database.
+
+### Required information
+
+The only required information to provide during a registry is a name or label. This label can be
+anything. It can be a anonymized label, a descriptive label, or a more rich description.
+Importantly, the label itself has no meaning. Moreover, the label does not have to be unique.
+
+### Optional information
+
+The following bits of information are welcome but not required.
+
+* unique chemical composition
+* an ontological classification (could be suggested based on the chemical composition?)
+* a webpage
+* a provider, contact, or project name
