@@ -36,3 +36,9 @@ The following bits of information are welcome but not required (in random order)
 * an ontological classification (could be suggested based on the chemical composition?)
 * a webpage
 * a provider, contact, or project name
+
+Keep in mind that provided data is provided to the registry under the [CCZero license](LICENSE.md).
+
+## Providing data
+
+
