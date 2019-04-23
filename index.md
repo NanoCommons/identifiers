@@ -7,6 +7,10 @@ Think of it as a pre-registration of the intention to study the material.
 
 More information is provided in this [README](README.md).
 
+## How to register new materials
+
+The process to register new materials is described in [this document](register.md).
+
 ## Registered materials
 
 * < you can be the first >
