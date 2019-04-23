@@ -29,7 +29,7 @@ Importantly, the label itself has no meaning. Moreover, the label does not have 
 
 ### Optional information
 
-The following bits of information are welcome but not required.
+The following bits of information are welcome but not required (in random order):
 
 * unique chemical composition
 * batch and/or lot number
