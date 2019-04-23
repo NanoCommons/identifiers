@@ -2,7 +2,7 @@
 name: Register Material
 about: This template is used to register compound.
 title: "[REG] new material"
-labels: ''
+labels: 'new material'
 assignees: egonw
 
 ---
