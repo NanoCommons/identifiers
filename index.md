@@ -11,6 +11,18 @@ More information is provided in this [README](https://github.com/NanoCommons/ide
 
 The process to register new materials is described in [this document](register.md).
 
+## How to use the identifier
+
+The identifier is supposed to be use in all written material. The identfier will be a simple
+identifier starting with "ERM". It is recommended to use the identifier in the
+[Compact Identifier](https://europepmc.org/articles/pmc5944906) form,
+but a prefix is yet to be registered.
+
+### Use in semantic web solutions
+
+For use in semantic web approaches, an equivalent IRI version is available with prefixes the
+short identifier with "https://nanocommons.github.io/identifiers/".
+
 ## Registered materials
 
 * < you can be the first >
