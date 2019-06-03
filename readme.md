@@ -1,4 +1,4 @@
-# European Repository of Materials
+# European Registry of Materials
 
 The European Repository of Materials is a simple registry with the sole purpose to mint material
 identifiers to be used by research projects throughout the life cycle of their project. The
