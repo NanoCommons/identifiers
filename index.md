@@ -1,6 +1,6 @@
-# European Repository of Materials
+# European Registry of Materials
 
-The European Repository of Materials is a simple registry with the sole purpose to mint material
+The European Registry of Materials is a simple registry with the sole purpose to mint material
 identifiers to be used by research projects throughout the life cycle of their project. The
 identifier is nothing more than that identifier, and not by default linked to any information.
 Think of it as a pre-registration of the intention to study the material.
@@ -25,7 +25,9 @@ short identifier with "https://nanocommons.github.io/identifiers/".
 
 ## Registered materials
 
-* < you can be the first >
+* the full list can be found at https://nanocommons.github.io/identifiers/registry (Turtle format)
+* ERM00000001-ERM00000044 for [NanoSolveIT](https://nanosolveit.eu/)
+* < you can be the second >
 
 ## Acknowledgement
 
