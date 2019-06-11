@@ -21,7 +21,7 @@ but a prefix is yet to be registered.
 ### Use in semantic web solutions
 
 For use in semantic web approaches, an equivalent IRI version is available with prefixes the
-short identifier with "https://nanocommons.github.io/identifiers/".
+short identifier with "https://nanocommons.github.io/identifiers/registry#".
 
 ## Registered materials
 
