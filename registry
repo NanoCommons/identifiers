@@ -4,7 +4,48 @@
 @prefix obo: <http://purl.obolibrary.org/obo/> .
 
 erm:ERM00000001 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 1" .
-# ..
+erm:ERM00000002 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 2" .
+erm:ERM00000003 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 3" .
+erm:ERM00000004 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 4" .
+erm:ERM00000005 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 5" .
+erm:ERM00000006 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 6" .
+erm:ERM00000007 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 7" .
+erm:ERM00000008 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 8" .
+erm:ERM00000009 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 9" .
+erm:ERM00000010 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 10" .
+erm:ERM00000011 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 11" .
+erm:ERM00000012 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 12" .
+erm:ERM00000013 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 13" .
+erm:ERM00000014 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 14" .
+erm:ERM00000015 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 15" .
+erm:ERM00000016 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 16" .
+erm:ERM00000017 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 17" .
+erm:ERM00000018 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 18" .
+erm:ERM00000019 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 19" .
+erm:ERM00000021 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 20" .
+erm:ERM00000021 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 21" .
+erm:ERM00000022 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 22" .
+erm:ERM00000023 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 23" .
+erm:ERM00000024 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 24" .
+erm:ERM00000025 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 25" .
+erm:ERM00000026 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 26" .
+erm:ERM00000027 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 27" .
+erm:ERM00000028 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 28" .
+erm:ERM00000029 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 29" .
+erm:ERM00000030 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 30" .
+erm:ERM00000031 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 31" .
+erm:ERM00000032 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 32" .
+erm:ERM00000033 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 33" .
+erm:ERM00000034 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 34" .
+erm:ERM00000035 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 35" .
+erm:ERM00000036 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 36" .
+erm:ERM00000037 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 37" .
+erm:ERM00000038 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 38" .
+erm:ERM00000039 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 39" .
+erm:ERM00000040 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 40" .
+erm:ERM00000041 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 41" .
+erm:ERM00000042 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 42" .
+erm:ERM00000043 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 43" .
 erm:ERM00000044 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 44" .
   
   
