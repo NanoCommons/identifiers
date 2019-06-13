@@ -1,7 +1,8 @@
 # European Registry of Materials
 
 The European Registry of Materials is a simple registry with the sole purpose to mint material
-identifiers to be used by research projects throughout the life cycle of their project. The
+identifiers to be used by research projects throughout the life cycle of their project
+([fairsharing.org entry](https://fairsharing.org/bsg-s001384/)). The
 identifier is nothing more than that identifier, and not by default linked to any information.
 Think of it as a pre-registration of the intention to study the material.
 
