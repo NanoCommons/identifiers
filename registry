@@ -47,5 +47,17 @@ erm:ERM00000041 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 41" .
 erm:ERM00000042 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 42" .
 erm:ERM00000043 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 43" .
 erm:ERM00000044 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 44" .
-  
+erm:ERM00000045 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT NovaM comp Ag 1" .
+erm:ERM00000046 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT NovaM comp Ag 2" .
+erm:ERM00000047 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT NovaM comp Ag 3" .
+erm:ERM00000048 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT NovaM comp Ag 4" .
+erm:ERM00000049 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT NovaM comp Ag 5" .
+erm:ERM00000050 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT NovaM comp Ag 6" .
+erm:ERM00000051 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT NovaM comp Ag 7" .
+erm:ERM00000052 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT NovaM comp Ag 8" .
+erm:ERM00000053 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT NovaM comp Ag 9" .
+erm:ERM00000054 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT NovaM comp Ag 10" .
+erm:ERM00000055 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT NovaM comp Ag 11" .
+erm:ERM00000056 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT NovaM comp Ag 12" .
+erm:ERM00000057 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT NovaM comp Ag 13" .
   
