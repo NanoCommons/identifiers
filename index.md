@@ -15,8 +15,8 @@ The process to register new materials is described in [this document](register.m
 
 The identifier is supposed to be use in all written material. The identfier will be a simple
 identifier starting with "ERM". It is recommended to use the identifier in the
-[Compact Identifier](https://europepmc.org/articles/pmc5944906) form,
-but a prefix is yet to be registered.
+[Compact Identifier](https://europepmc.org/articles/pmc5944906) form
+([identifiers.org entry](https://registry.identifiers.org/registry/erm))
 
 ### Use in semantic web solutions
 
