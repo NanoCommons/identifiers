@@ -26,7 +26,7 @@ short identifier with "https://nanocommons.github.io/identifiers/registry#".
 ## Registered materials
 
 * the full list can be found at https://nanocommons.github.io/identifiers/registry (Turtle format)
-* ERM00000001-ERM00000044 for [NanoSolveIT](https://nanosolveit.eu/)
+* ERM00000001-ERM00000057 for [NanoSolveIT](https://nanosolveit.eu/)
 * < you can be the second >
 
 ## Acknowledgement
