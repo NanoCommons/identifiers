@@ -32,6 +32,7 @@ Importantly, the label itself has no meaning. Moreover, the label does not have 
 
 The following bits of information are welcome but not required (in random order):
 
+* parent ERM identifier (identifier of the material that this material was derived from): identifier or IRI or Compact identifier
 * unique chemical composition
 * batch and/or lot number
 * an ontological classification (could be suggested based on the chemical composition?)
