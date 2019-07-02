@@ -60,4 +60,5 @@ erm:ERM00000054 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT NovaM comp Ag 10" .
 erm:ERM00000055 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT NovaM comp Ag 11" .
 erm:ERM00000056 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT NovaM comp Ag 12" .
 erm:ERM00000057 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT NovaM comp Ag 13" .
-  
+erm:ERM00000058 a obo:CHEBI_59999 ; rdfs:label "NanoFASE_NM01" .
+
