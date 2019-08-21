@@ -15,7 +15,8 @@ in project milestones and deliverables, and in journal articles.
 
 The identifier can be used in two ways. For regular writing, it can be used as in its compact
 form. For semantic web approaches, the full IRI can be used. Both will be considered equivalent
-and refer to the same identifier.
+and refer to the same identifier. The identifier is described by the CHEMINF ontology term 
+CHEMINF_000569 and part of the eNanoMapper ontology (version 6).
 
 ## The associated information
 
