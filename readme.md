@@ -47,3 +47,10 @@ Keep in mind that provided data is provided to the registry under the [CCZero li
 [This document](register.md) explains how to register new materials.
 
 
+## Acknowledgement
+
+This registry is supported by [NanoCommons](https://www.nanocommons.eu/).
+NanoCommons has received funding from European Union
+Horizon 2020 Programme (H2020) under grant agreement nº [731032](https://cordis.europa.eu/project/rcn/212586/en).
+
+![](https://licensebuttons.net/p/zero/1.0/88x31.png)
