@@ -14,7 +14,7 @@ In the [Issues]() section you can click the green **New issue** button:
 
 ![](erm_newIssue.png)
 
-You can then select the **Register Material** template by clicking the green **Get started** bytton:
+You can then select the **Register Material** template by clicking the green **Get started** button:
 
 ![](erm_tamplate.png)
 
