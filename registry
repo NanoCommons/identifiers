@@ -62,4 +62,11 @@ erm:ERM00000056 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT NovaM comp Ag 12" .
 erm:ERM00000057 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT NovaM comp Ag 13" .
 erm:ERM00000058 a obo:CHEBI_59999 ; rdfs:label "NanoFASE_NM01" .
 erm:ERM00000059 a obo:CHEBI_59999 ; rdfs:label "NanoFASE_NM02" .
-
+erm:ERM00000060 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 1" .
+erm:ERM00000061 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 2" .
+erm:ERM00000062 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 3" .
+erm:ERM00000063 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 4" .
+erm:ERM00000064 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 5" .
+erm:ERM00000065 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 6" .
+erm:ERM00000066 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 7" .
+erm:ERM00000067 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 8" .
