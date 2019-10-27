@@ -76,3 +76,13 @@ erm:ERM00000070 a obo:CHEBI_59999 ; rdfs:label "NanoTest NM 3" .
 erm:ERM00000071 a obo:CHEBI_59999 ; rdfs:label "NanoTest NM 4" .
 erm:ERM00000072 a obo:CHEBI_59999 ; rdfs:label "NanoTest NM 5" .
 erm:ERM00000073 a obo:CHEBI_59999 ; rdfs:label "NanoTest NM 6" .
+
+erm:ERM00000074 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 0" .
+erm:ERM00000075 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 1" .
+erm:ERM00000076 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 2" .
+erm:ERM00000077 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 3" .
+erm:ERM00000078 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 4" .
+erm:ERM00000079 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 5" .
+erm:ERM00000080 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 6" .
+erm:ERM00000081 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 7" .
+erm:ERM00000082 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 8" .
