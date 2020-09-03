@@ -89,3 +89,7 @@ erm:ERM00000083 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 9" .
 erm:ERM00000084 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 10" .
 erm:ERM00000085 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 11" .
 erm:ERM00000086 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 12" .
+erm:ERM00000087 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 13" .
+erm:ERM00000088 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 14" .
+erm:ERM00000089 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 15" .
+erm:ERM00000090 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 16" .
