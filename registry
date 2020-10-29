@@ -93,3 +93,11 @@ erm:ERM00000087 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 13" .
 erm:ERM00000088 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 14" .
 erm:ERM00000089 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 15" .
 erm:ERM00000090 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 16" .
+erm:ERM00000091 a obo:CHEBI_59999 ; rdfs:label “SbD4Nano NM 1" .
+erm:ERM00000092 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 2" .
+erm:ERM00000093 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 3" .
+erm:ERM00000094 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 4" .
+erm:ERM00000095 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 5" .
+erm:ERM00000096 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 6" .
+erm:ERM00000097 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 7" .
+erm:ERM00000098 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 8" .
