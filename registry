@@ -279,3 +279,27 @@ erm:ERM00000273 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 175" .
 erm:ERM00000274 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 176" .
 erm:ERM00000275 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 177" .
 erm:ERM00000276 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 178" .
+erm:ERM00000277 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M1" .
+erm:ERM00000278 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M2" .
+erm:ERM00000279 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M3" .
+erm:ERM00000280 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M4" .
+erm:ERM00000281 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M5" .
+erm:ERM00000282 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M6" .
+erm:ERM00000283 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M7" .
+erm:ERM00000284 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M8" .
+erm:ERM00000285 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M9" .
+erm:ERM00000286 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M10" .
+erm:ERM00000287 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M11" .
+erm:ERM00000288 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M12" .
+erm:ERM00000289 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M13" .
+erm:ERM00000290 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M14" .
+erm:ERM00000291 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M15" .
+erm:ERM00000292 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M16" .
+erm:ERM00000293 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M17" .
+erm:ERM00000294 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M18" .
+erm:ERM00000295 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M19" .
+erm:ERM00000296 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M20" .
+erm:ERM00000297 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M21" .
+erm:ERM00000298 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M22" .
+erm:ERM00000299 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M23" .
+erm:ERM00000300 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M24" .
