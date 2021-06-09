@@ -303,3 +303,9 @@ erm:ERM00000297 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M21" .
 erm:ERM00000298 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M22" .
 erm:ERM00000299 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M23" .
 erm:ERM00000300 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M24" .
+erm:ERM00000301 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano WP2 M1" .
+erm:ERM00000302 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano WP2 M2" .
+erm:ERM00000303 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano WP2 M3" .
+erm:ERM00000304 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano WP2 M4" .
+erm:ERM00000305 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano WP2 M5" .
+erm:ERM00000306 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano WP2 M6" .
