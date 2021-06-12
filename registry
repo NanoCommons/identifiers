@@ -309,3 +309,7 @@ erm:ERM00000303 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano WP2 M3" .
 erm:ERM00000304 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano WP2 M4" .
 erm:ERM00000305 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano WP2 M5" .
 erm:ERM00000306 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano WP2 M6" .
+erm:ERM00000307 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 179" .
+erm:ERM00000308 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 180" .
+erm:ERM00000309 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 181" .
+erm:ERM00000310 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 182" .
