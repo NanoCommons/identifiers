@@ -313,3 +313,17 @@ erm:ERM00000307 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 179" .
 erm:ERM00000308 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 180" .
 erm:ERM00000309 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 181" .
 erm:ERM00000310 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 182" .
+erm:ERM00000311 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 183" .
+erm:ERM00000312 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 184" .
+erm:ERM00000313 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 185" .
+erm:ERM00000314 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 186" .
+erm:ERM00000315 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 187" .
+erm:ERM00000316 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 188" .
+erm:ERM00000317 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 189" .
+erm:ERM00000318 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 190" .
+erm:ERM00000319 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 191" .
+erm:ERM00000320 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 192" .
+erm:ERM00000321 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 193" .
+erm:ERM00000322 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 194" .
+erm:ERM00000323 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 195" .
+erm:ERM00000324 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 196" .
