@@ -11,6 +11,9 @@ whole study, from the design to the final reporting. It is meant to be used as u
 identifier to be used in descriptions of experimental designs, in (open) notebooks, in reports,
 in project milestones and deliverables, and in journal articles.
 
+More information and use cases can be found in this
+[preprint](https://chemrxiv.org/engage/chemrxiv/article-details/60e6e05a338e92a5cd08ff69).
+
 ## The identifier
 
 The identifier can be used in two ways. For regular writing, it can be used as in its compact
