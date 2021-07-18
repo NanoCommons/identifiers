@@ -9,7 +9,8 @@ More information is provided in this [README](https://github.com/NanoCommons/ide
 
 ## How to register new materials
 
-The process to register new materials is described in [this document](register.md).
+The process to register new materials is described in [this document](register.md) and
+[this preprint](https://chemrxiv.org/engage/chemrxiv/article-details/60e6e05a338e92a5cd08ff69).
 
 ## How to use the identifier
 
