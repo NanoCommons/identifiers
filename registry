@@ -327,3 +327,4 @@ erm:ERM00000321 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 193" .
 erm:ERM00000322 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 194" .
 erm:ERM00000323 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 195" .
 erm:ERM00000324 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 196" .
+erm:ERM00000325 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 17" .
