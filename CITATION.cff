@@ -14,3 +14,42 @@ version: 2021-12
 doi: 10.5281/zenodo.6257661
 date-released: 2022-02-24
 url: "https://github.com/NanoCommons/identifiers"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: van Rijn
+      given-names: Jeaphianne
+      orcid: https://orcid.org/0000-0001-5026-7705
+    - family-names: Afantitis
+      given-names: Antreas
+    - family-names: Culha
+      given-names: Mustafa
+    - family-names: Dusinska
+      given-names: Maria
+    - family-names: Exner
+      given-names: Thomas
+    - family-names: Jeliazkova
+      given-names: Nina
+    - family-names: Longhin
+      given-names: Eleonora M.
+    - family-names: Lynch
+      given-names: Iseult
+    - family-names: Melagraki
+      given-names: Georgia
+    - family-names: Nymark
+      given-names: Penny
+    - family-names: Papadiamantis
+      given-names: Anastasios G.
+    - family-names: Winkler
+      given-names: David A.
+    - family-names: Yilmaz
+      given-names: Hulya
+    - family-names: Willighagen
+      given-names: Egon L.
+  title: "European Registry of Materials: global, unique identifiers for (undisclosed) nanomaterials"
+  year: 2021
+  month: 7
+  day: 9
+  journal: ChemRxiv
+  doi: 10.26434/chemrxiv-2021-65894
+  url: https://chemrxiv.org/engage/chemrxiv/article-details/60e6e05a338e92a5cd08ff69
