@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Willighagen
+    given-names: Egon
+  - family-names: van Rijn
+    given-names: Jeaphianne
+  - family-names: Jeliazkova
+    given-names: Nina
+  - family-names: Dokler
+    given-names: Joh
+title: European Registry of Materials
+version: 2021-12
+doi: 10.5281/zenodo.6257661
+date-released: 2022-02-24
+url: "https://github.com/NanoCommons/identifiers"
