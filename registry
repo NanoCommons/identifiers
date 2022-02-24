@@ -70,8 +70,8 @@ erm:ERM00000054 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT NovaM comp Ag 10" ; 
 erm:ERM00000055 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT NovaM comp Ag 11" ; dct:creator wd:Q61910892 .
 erm:ERM00000056 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT NovaM comp Ag 12" ; dct:creator wd:Q61910892 .
 erm:ERM00000057 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT NovaM comp Ag 13" ; dct:creator wd:Q61910892 .
-erm:ERM00000058 a obo:CHEBI_59999 ; rdfs:label "NanoFASE_NM01" .
-erm:ERM00000059 a obo:CHEBI_59999 ; rdfs:label "NanoFASE_NM02" .
+erm:ERM00000058 a obo:CHEBI_59999 ; rdfs:label "NanoFASE_NM01" ; dct:creator wd:Q55094321 .
+erm:ERM00000059 a obo:CHEBI_59999 ; rdfs:label "NanoFASE_NM02" ; dct:creator wd:Q55094321 .
 erm:ERM00000060 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 1" ; dct:creator wd:Q61965386 .
 erm:ERM00000061 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 2" ; dct:creator wd:Q61965386 .
 erm:ERM00000062 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 3" ; dct:creator wd:Q61965386 .
@@ -80,21 +80,21 @@ erm:ERM00000064 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 5" ; dct:creator wd:
 erm:ERM00000065 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 6" ; dct:creator wd:Q61965386 .
 erm:ERM00000066 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 7" ; dct:creator wd:Q61965386 .
 erm:ERM00000067 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 8" ; dct:creator wd:Q61965386 .
-erm:ERM00000068 a obo:CHEBI_59999 ; rdfs:label "NanoTest NM 1" .
-erm:ERM00000069 a obo:CHEBI_59999 ; rdfs:label "NanoTest NM 2" .
-erm:ERM00000070 a obo:CHEBI_59999 ; rdfs:label "NanoTest NM 3" .
-erm:ERM00000071 a obo:CHEBI_59999 ; rdfs:label "NanoTest NM 4" .
-erm:ERM00000072 a obo:CHEBI_59999 ; rdfs:label "NanoTest NM 5" .
-erm:ERM00000073 a obo:CHEBI_59999 ; rdfs:label "NanoTest NM 6" .
-erm:ERM00000074 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 0" .
-erm:ERM00000075 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 1" .
-erm:ERM00000076 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 2" .
-erm:ERM00000077 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 3" .
-erm:ERM00000078 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 4" .
-erm:ERM00000079 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 5" .
-erm:ERM00000080 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 6" .
-erm:ERM00000081 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 7" .
-erm:ERM00000082 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 8" .
+erm:ERM00000068 a obo:CHEBI_59999 ; rdfs:label "NanoTest NM 1" ; dct:creator wd:Q55095491 .
+erm:ERM00000069 a obo:CHEBI_59999 ; rdfs:label "NanoTest NM 2" ; dct:creator wd:Q55095491 .
+erm:ERM00000070 a obo:CHEBI_59999 ; rdfs:label "NanoTest NM 3" ; dct:creator wd:Q55095491 .
+erm:ERM00000071 a obo:CHEBI_59999 ; rdfs:label "NanoTest NM 4" ; dct:creator wd:Q55095491 .
+erm:ERM00000072 a obo:CHEBI_59999 ; rdfs:label "NanoTest NM 5" ; dct:creator wd:Q55095491 .
+erm:ERM00000073 a obo:CHEBI_59999 ; rdfs:label "NanoTest NM 6" ; dct:creator wd:Q55095491 .
+erm:ERM00000074 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 0" ; dct:creator wd:Q55092415 .
+erm:ERM00000075 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 1" ; dct:creator wd:Q55092415 .
+erm:ERM00000076 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 2" ; dct:creator wd:Q55092415 .
+erm:ERM00000077 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 3" ; dct:creator wd:Q55092415 .
+erm:ERM00000078 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 4" ; dct:creator wd:Q55092415 .
+erm:ERM00000079 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 5" ; dct:creator wd:Q55092415 .
+erm:ERM00000080 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 6" ; dct:creator wd:Q55092415 .
+erm:ERM00000081 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 7" ; dct:creator wd:Q55092415 .
+erm:ERM00000082 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 8" ; dct:creator wd:Q55092415 .
 erm:ERM00000083 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 9" ; dct:creator wd:Q61965386 .
 erm:ERM00000084 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 10" ; dct:creator wd:Q61965386 .
 erm:ERM00000085 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 11" ; dct:creator wd:Q61965386 .
@@ -103,14 +103,14 @@ erm:ERM00000087 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 13" ; dct:creator wd
 erm:ERM00000088 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 14" ; dct:creator wd:Q61965386 .
 erm:ERM00000089 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 15" ; dct:creator wd:Q61965386 .
 erm:ERM00000090 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 16" ; dct:creator wd:Q61965386 .
-erm:ERM00000091 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 1" .
-erm:ERM00000092 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 2" .
-erm:ERM00000093 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 3" .
-erm:ERM00000094 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 4" .
-erm:ERM00000095 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 5" .
-erm:ERM00000096 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 6" .
-erm:ERM00000097 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 7" .
-erm:ERM00000098 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 8" .
+erm:ERM00000091 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 1" ; dct:creator wd:Q97096689 .
+erm:ERM00000092 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 2" ; dct:creator wd:Q97096689 .
+erm:ERM00000093 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 3" ; dct:creator wd:Q97096689 .
+erm:ERM00000094 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 4" ; dct:creator wd:Q97096689 .
+erm:ERM00000095 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 5" ; dct:creator wd:Q97096689 .
+erm:ERM00000096 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 6" ; dct:creator wd:Q97096689 .
+erm:ERM00000097 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 7" ; dct:creator wd:Q97096689 .
+erm:ERM00000098 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 8" ; dct:creator wd:Q97096689 .
 erm:ERM00000099 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 1" ; dct:creator wd:Q61965386 .
 erm:ERM00000100 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 2" ; dct:creator wd:Q61965386 .
 erm:ERM00000101 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 3" ; dct:creator wd:Q61965386 .
@@ -313,12 +313,12 @@ erm:ERM00000297 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M21" .
 erm:ERM00000298 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M22" .
 erm:ERM00000299 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M23" .
 erm:ERM00000300 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M24" .
-erm:ERM00000301 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano WP2 M1" .
-erm:ERM00000302 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano WP2 M2" .
-erm:ERM00000303 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano WP2 M3" .
-erm:ERM00000304 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano WP2 M4" .
-erm:ERM00000305 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano WP2 M5" .
-erm:ERM00000306 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano WP2 M6" .
+erm:ERM00000301 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano WP2 M1" ; dct:creator wd:Q97096689 .
+erm:ERM00000302 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano WP2 M2" ; dct:creator wd:Q97096689 .
+erm:ERM00000303 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano WP2 M3" ; dct:creator wd:Q97096689 .
+erm:ERM00000304 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano WP2 M4" ; dct:creator wd:Q97096689 .
+erm:ERM00000305 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano WP2 M5" ; dct:creator wd:Q97096689 .
+erm:ERM00000306 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano WP2 M6" ; dct:creator wd:Q97096689 .
 erm:ERM00000307 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 179" ; dct:creator wd:Q61965386 .
 erm:ERM00000308 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 180" ; dct:creator wd:Q61965386 .
 erm:ERM00000309 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 181" ; dct:creator wd:Q61965386 .
