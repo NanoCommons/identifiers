@@ -72,14 +72,14 @@ erm:ERM00000056 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT NovaM comp Ag 12" ; 
 erm:ERM00000057 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT NovaM comp Ag 13" ; dct:creator wd:Q61910892 .
 erm:ERM00000058 a obo:CHEBI_59999 ; rdfs:label "NanoFASE_NM01" ; dct:creator wd:Q55094321 .
 erm:ERM00000059 a obo:CHEBI_59999 ; rdfs:label "NanoFASE_NM02" ; dct:creator wd:Q55094321 .
-erm:ERM00000060 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 1" ; dct:creator wd:Q61965386 .
-erm:ERM00000061 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 2" ; dct:creator wd:Q61965386 .
-erm:ERM00000062 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 3" ; dct:creator wd:Q61965386 .
-erm:ERM00000063 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 4" ; dct:creator wd:Q61965386 .
-erm:ERM00000064 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 5" ; dct:creator wd:Q61965386 .
-erm:ERM00000065 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 6" ; dct:creator wd:Q61965386 .
-erm:ERM00000066 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 7" ; dct:creator wd:Q61965386 .
-erm:ERM00000067 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 8" ; dct:creator wd:Q61965386 .
+erm:ERM00000060 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 1" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/identifiers_and_guidance.md#the-nanomaterials> .
+erm:ERM00000061 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 2" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/identifiers_and_guidance.md#the-nanomaterials> .
+erm:ERM00000062 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 3" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/identifiers_and_guidance.md#the-nanomaterials> .
+erm:ERM00000063 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 4" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/identifiers_and_guidance.md#the-nanomaterials> .
+erm:ERM00000064 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 5" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/identifiers_and_guidance.md#the-nanomaterials> .
+erm:ERM00000065 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 6" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/identifiers_and_guidance.md#the-nanomaterials> .
+erm:ERM00000066 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 7" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/identifiers_and_guidance.md#the-nanomaterials> .
+erm:ERM00000067 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 8" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/identifiers_and_guidance.md#the-nanomaterials> .
 erm:ERM00000068 a obo:CHEBI_59999 ; rdfs:label "NanoTest NM 1" ; dct:creator wd:Q55095491 .
 erm:ERM00000069 a obo:CHEBI_59999 ; rdfs:label "NanoTest NM 2" ; dct:creator wd:Q55095491 .
 erm:ERM00000070 a obo:CHEBI_59999 ; rdfs:label "NanoTest NM 3" ; dct:creator wd:Q55095491 .
@@ -95,14 +95,14 @@ erm:ERM00000079 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 5" ; dct:creator wd
 erm:ERM00000080 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 6" ; dct:creator wd:Q55092415 .
 erm:ERM00000081 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 7" ; dct:creator wd:Q55092415 .
 erm:ERM00000082 a obo:CHEBI_59999 ; rdfs:label "caLIBRAte NM 8" ; dct:creator wd:Q55092415 .
-erm:ERM00000083 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 9" ; dct:creator wd:Q61965386 .
-erm:ERM00000084 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 10" ; dct:creator wd:Q61965386 .
-erm:ERM00000085 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 11" ; dct:creator wd:Q61965386 .
-erm:ERM00000086 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 12" ; dct:creator wd:Q61965386 .
-erm:ERM00000087 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 13" ; dct:creator wd:Q61965386 .
-erm:ERM00000088 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 14" ; dct:creator wd:Q61965386 .
-erm:ERM00000089 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 15" ; dct:creator wd:Q61965386 .
-erm:ERM00000090 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 16" ; dct:creator wd:Q61965386 .
+erm:ERM00000083 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 9" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/identifiers_and_guidance.md#the-nanomaterials> .
+erm:ERM00000084 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 10" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/identifiers_and_guidance.md#the-nanomaterials> .
+erm:ERM00000085 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 11" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/identifiers_and_guidance.md#the-nanomaterials> .
+erm:ERM00000086 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 12" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/identifiers_and_guidance.md#the-nanomaterials> .
+erm:ERM00000087 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 13" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/identifiers_and_guidance.md#the-nanomaterials> .
+erm:ERM00000088 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 14" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/identifiers_and_guidance.md#the-nanomaterials> .
+erm:ERM00000089 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 15" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/identifiers_and_guidance.md#the-nanomaterials> .
+erm:ERM00000090 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 16" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/identifiers_and_guidance.md#the-nanomaterials> .
 erm:ERM00000091 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 1" ; dct:creator wd:Q97096689 .
 erm:ERM00000092 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 2" ; dct:creator wd:Q97096689 .
 erm:ERM00000093 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 3" ; dct:creator wd:Q97096689 .
@@ -111,184 +111,184 @@ erm:ERM00000095 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 5" ; dct:creator wd:
 erm:ERM00000096 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 6" ; dct:creator wd:Q97096689 .
 erm:ERM00000097 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 7" ; dct:creator wd:Q97096689 .
 erm:ERM00000098 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 8" ; dct:creator wd:Q97096689 .
-erm:ERM00000099 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 1" ; dct:creator wd:Q61965386 .
-erm:ERM00000100 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 2" ; dct:creator wd:Q61965386 .
-erm:ERM00000101 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 3" ; dct:creator wd:Q61965386 .
-erm:ERM00000102 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 4" ; dct:creator wd:Q61965386 .
-erm:ERM00000103 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 5" ; dct:creator wd:Q61965386 .
-erm:ERM00000104 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 6" ; dct:creator wd:Q61965386 .
-erm:ERM00000105 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 7" ; dct:creator wd:Q61965386 .
-erm:ERM00000106 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 8" ; dct:creator wd:Q61965386 .
-erm:ERM00000107 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 9" ; dct:creator wd:Q61965386 .
-erm:ERM00000108 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 10" ; dct:creator wd:Q61965386 .
-erm:ERM00000109 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 11" ; dct:creator wd:Q61965386 .
-erm:ERM00000110 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 12" ; dct:creator wd:Q61965386 .
-erm:ERM00000111 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 13" ; dct:creator wd:Q61965386 .
-erm:ERM00000112 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 14" ; dct:creator wd:Q61965386 .
-erm:ERM00000113 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 15" ; dct:creator wd:Q61965386 .
-erm:ERM00000114 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 16" ; dct:creator wd:Q61965386 .
-erm:ERM00000115 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 17" ; dct:creator wd:Q61965386 .
-erm:ERM00000116 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 18" ; dct:creator wd:Q61965386 .
-erm:ERM00000117 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 19" ; dct:creator wd:Q61965386 .
-erm:ERM00000118 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 20" ; dct:creator wd:Q61965386 .
-erm:ERM00000119 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 21" ; dct:creator wd:Q61965386 .
-erm:ERM00000120 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 22" ; dct:creator wd:Q61965386 .
-erm:ERM00000121 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 23" ; dct:creator wd:Q61965386 .
-erm:ERM00000122 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 24" ; dct:creator wd:Q61965386 .
-erm:ERM00000123 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 25" ; dct:creator wd:Q61965386 .
-erm:ERM00000124 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 26" ; dct:creator wd:Q61965386 .
-erm:ERM00000125 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 27" ; dct:creator wd:Q61965386 .
-erm:ERM00000126 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 28" ; dct:creator wd:Q61965386 .
-erm:ERM00000127 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 29" ; dct:creator wd:Q61965386 .
-erm:ERM00000128 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 30" ; dct:creator wd:Q61965386 .
-erm:ERM00000129 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 31" ; dct:creator wd:Q61965386 .
-erm:ERM00000130 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 32" ; dct:creator wd:Q61965386 .
-erm:ERM00000131 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 33" ; dct:creator wd:Q61965386 .
-erm:ERM00000132 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 34" ; dct:creator wd:Q61965386 .
-erm:ERM00000133 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 35" ; dct:creator wd:Q61965386 .
-erm:ERM00000134 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 36" ; dct:creator wd:Q61965386 .
-erm:ERM00000135 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 37" ; dct:creator wd:Q61965386 .
-erm:ERM00000136 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 38" ; dct:creator wd:Q61965386 .
-erm:ERM00000137 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 39" ; dct:creator wd:Q61965386 .
-erm:ERM00000138 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 40" ; dct:creator wd:Q61965386 .
-erm:ERM00000139 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 41" ; dct:creator wd:Q61965386 .
-erm:ERM00000140 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 42" ; dct:creator wd:Q61965386 .
-erm:ERM00000141 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 43" ; dct:creator wd:Q61965386 .
-erm:ERM00000142 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 44" ; dct:creator wd:Q61965386 .
-erm:ERM00000143 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 45" ; dct:creator wd:Q61965386 .
-erm:ERM00000144 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 46" ; dct:creator wd:Q61965386 .
-erm:ERM00000145 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 47" ; dct:creator wd:Q61965386 .
-erm:ERM00000146 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 48" ; dct:creator wd:Q61965386 .
-erm:ERM00000147 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 49" ; dct:creator wd:Q61965386 .
-erm:ERM00000148 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 50" ; dct:creator wd:Q61965386 .
-erm:ERM00000149 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 51" ; dct:creator wd:Q61965386 .
-erm:ERM00000150 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 52" ; dct:creator wd:Q61965386 .
-erm:ERM00000151 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 53" ; dct:creator wd:Q61965386 .
-erm:ERM00000152 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 54" ; dct:creator wd:Q61965386 .
-erm:ERM00000153 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 55" ; dct:creator wd:Q61965386 .
-erm:ERM00000154 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 56" ; dct:creator wd:Q61965386 .
-erm:ERM00000155 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 57" ; dct:creator wd:Q61965386 .
-erm:ERM00000156 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 58" ; dct:creator wd:Q61965386 .
-erm:ERM00000157 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 59" ; dct:creator wd:Q61965386 .
-erm:ERM00000158 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 60" ; dct:creator wd:Q61965386 .
-erm:ERM00000159 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 61" ; dct:creator wd:Q61965386 .
-erm:ERM00000160 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 62" ; dct:creator wd:Q61965386 .
-erm:ERM00000161 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 63" ; dct:creator wd:Q61965386 .
-erm:ERM00000162 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 64" ; dct:creator wd:Q61965386 .
-erm:ERM00000163 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 65" ; dct:creator wd:Q61965386 .
-erm:ERM00000164 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 66" ; dct:creator wd:Q61965386 .
-erm:ERM00000165 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 67" ; dct:creator wd:Q61965386 .
-erm:ERM00000166 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 68" ; dct:creator wd:Q61965386 .
-erm:ERM00000167 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 69" ; dct:creator wd:Q61965386 .
-erm:ERM00000168 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 70" ; dct:creator wd:Q61965386 .
-erm:ERM00000169 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 71" ; dct:creator wd:Q61965386 .
-erm:ERM00000170 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 72" ; dct:creator wd:Q61965386 .
-erm:ERM00000171 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 73" ; dct:creator wd:Q61965386 .
-erm:ERM00000172 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 74" ; dct:creator wd:Q61965386 .
-erm:ERM00000173 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 75" ; dct:creator wd:Q61965386 .
-erm:ERM00000174 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 76" ; dct:creator wd:Q61965386 .
-erm:ERM00000175 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 77" ; dct:creator wd:Q61965386 .
-erm:ERM00000176 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 78" ; dct:creator wd:Q61965386 .
-erm:ERM00000177 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 79" ; dct:creator wd:Q61965386 .
-erm:ERM00000178 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 80" ; dct:creator wd:Q61965386 .
-erm:ERM00000179 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 81" ; dct:creator wd:Q61965386 .
-erm:ERM00000180 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 82" ; dct:creator wd:Q61965386 .
-erm:ERM00000181 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 83" ; dct:creator wd:Q61965386 .
-erm:ERM00000182 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 84" ; dct:creator wd:Q61965386 .
-erm:ERM00000183 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 85" ; dct:creator wd:Q61965386 .
-erm:ERM00000184 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 86" ; dct:creator wd:Q61965386 .
-erm:ERM00000185 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 87" ; dct:creator wd:Q61965386 .
-erm:ERM00000186 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 88" ; dct:creator wd:Q61965386 .
-erm:ERM00000187 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 89" ; dct:creator wd:Q61965386 .
-erm:ERM00000188 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 90" ; dct:creator wd:Q61965386 .
-erm:ERM00000189 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 91" ; dct:creator wd:Q61965386 .
-erm:ERM00000190 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 92" ; dct:creator wd:Q61965386 .
-erm:ERM00000191 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 93" ; dct:creator wd:Q61965386 .
-erm:ERM00000192 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 94" ; dct:creator wd:Q61965386 .
-erm:ERM00000193 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 95" ; dct:creator wd:Q61965386 .
-erm:ERM00000194 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 96" ; dct:creator wd:Q61965386 .
-erm:ERM00000195 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 97" ; dct:creator wd:Q61965386 .
-erm:ERM00000196 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 98" ; dct:creator wd:Q61965386 .
-erm:ERM00000197 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 99" ; dct:creator wd:Q61965386 .
-erm:ERM00000198 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 100" ; dct:creator wd:Q61965386 .
-erm:ERM00000199 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 101" ; dct:creator wd:Q61965386 .
-erm:ERM00000200 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 102" ; dct:creator wd:Q61965386 .
-erm:ERM00000201 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 103" ; dct:creator wd:Q61965386 .
-erm:ERM00000202 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 104" ; dct:creator wd:Q61965386 .
-erm:ERM00000203 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 105" ; dct:creator wd:Q61965386 .
-erm:ERM00000204 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 106" ; dct:creator wd:Q61965386 .
-erm:ERM00000205 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 107" ; dct:creator wd:Q61965386 .
-erm:ERM00000206 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 108" ; dct:creator wd:Q61965386 .
-erm:ERM00000207 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 109" ; dct:creator wd:Q61965386 .
-erm:ERM00000208 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 100" ; dct:creator wd:Q61965386 .
-erm:ERM00000209 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 111" ; dct:creator wd:Q61965386 .
-erm:ERM00000210 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 112" ; dct:creator wd:Q61965386 .
-erm:ERM00000211 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 113" ; dct:creator wd:Q61965386 .
-erm:ERM00000212 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 114" ; dct:creator wd:Q61965386 .
-erm:ERM00000213 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 115" ; dct:creator wd:Q61965386 .
-erm:ERM00000214 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 116" ; dct:creator wd:Q61965386 .
-erm:ERM00000215 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 117" ; dct:creator wd:Q61965386 .
-erm:ERM00000216 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 118" ; dct:creator wd:Q61965386 .
-erm:ERM00000217 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 119" ; dct:creator wd:Q61965386 .
-erm:ERM00000218 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 110" ; dct:creator wd:Q61965386 .
-erm:ERM00000219 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 121" ; dct:creator wd:Q61965386 .
-erm:ERM00000220 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 122" ; dct:creator wd:Q61965386 .
-erm:ERM00000221 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 123" ; dct:creator wd:Q61965386 .
-erm:ERM00000222 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 124" ; dct:creator wd:Q61965386 .
-erm:ERM00000223 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 125" ; dct:creator wd:Q61965386 .
-erm:ERM00000224 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 126" ; dct:creator wd:Q61965386 .
-erm:ERM00000225 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 127" ; dct:creator wd:Q61965386 .
-erm:ERM00000226 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 128" ; dct:creator wd:Q61965386 .
-erm:ERM00000227 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 129" ; dct:creator wd:Q61965386 .
-erm:ERM00000228 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 130" ; dct:creator wd:Q61965386 .
-erm:ERM00000229 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 131" ; dct:creator wd:Q61965386 .
-erm:ERM00000230 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 132" ; dct:creator wd:Q61965386 .
-erm:ERM00000231 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 133" ; dct:creator wd:Q61965386 .
-erm:ERM00000232 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 134" ; dct:creator wd:Q61965386 .
-erm:ERM00000233 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 135" ; dct:creator wd:Q61965386 .
-erm:ERM00000234 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 136" ; dct:creator wd:Q61965386 .
-erm:ERM00000235 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 137" ; dct:creator wd:Q61965386 .
-erm:ERM00000236 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 138" ; dct:creator wd:Q61965386 .
-erm:ERM00000237 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 139" ; dct:creator wd:Q61965386 .
-erm:ERM00000238 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 140" ; dct:creator wd:Q61965386 .
-erm:ERM00000239 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 141" ; dct:creator wd:Q61965386 .
-erm:ERM00000240 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 142" ; dct:creator wd:Q61965386 .
-erm:ERM00000241 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 143" ; dct:creator wd:Q61965386 .
-erm:ERM00000242 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 144" ; dct:creator wd:Q61965386 .
-erm:ERM00000243 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 145" ; dct:creator wd:Q61965386 .
-erm:ERM00000244 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 146" ; dct:creator wd:Q61965386 .
-erm:ERM00000245 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 147" ; dct:creator wd:Q61965386 .
-erm:ERM00000246 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 148" ; dct:creator wd:Q61965386 .
-erm:ERM00000247 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 149" ; dct:creator wd:Q61965386 .
-erm:ERM00000248 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 150" ; dct:creator wd:Q61965386 .
-erm:ERM00000249 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 151" ; dct:creator wd:Q61965386 .
-erm:ERM00000250 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 152" ; dct:creator wd:Q61965386 .
-erm:ERM00000251 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 153" ; dct:creator wd:Q61965386 .
-erm:ERM00000252 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 154" ; dct:creator wd:Q61965386 .
-erm:ERM00000253 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 155" ; dct:creator wd:Q61965386 .
-erm:ERM00000254 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 156" ; dct:creator wd:Q61965386 .
-erm:ERM00000255 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 157" ; dct:creator wd:Q61965386 .
-erm:ERM00000256 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 158" ; dct:creator wd:Q61965386 .
-erm:ERM00000257 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 159" ; dct:creator wd:Q61965386 .
-erm:ERM00000258 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 160" ; dct:creator wd:Q61965386 .
-erm:ERM00000259 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 161" ; dct:creator wd:Q61965386 .
-erm:ERM00000260 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 162" ; dct:creator wd:Q61965386 .
-erm:ERM00000261 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 163" ; dct:creator wd:Q61965386 .
-erm:ERM00000262 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 164" ; dct:creator wd:Q61965386 .
-erm:ERM00000263 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 165" ; dct:creator wd:Q61965386 .
-erm:ERM00000264 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 166" ; dct:creator wd:Q61965386 .
-erm:ERM00000265 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 167" ; dct:creator wd:Q61965386 .
-erm:ERM00000266 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 168" ; dct:creator wd:Q61965386 .
-erm:ERM00000267 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 169" ; dct:creator wd:Q61965386 .
-erm:ERM00000268 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 170" ; dct:creator wd:Q61965386 .
-erm:ERM00000269 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 171" ; dct:creator wd:Q61965386 .
-erm:ERM00000270 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 172" ; dct:creator wd:Q61965386 .
-erm:ERM00000271 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 173" ; dct:creator wd:Q61965386 .
-erm:ERM00000272 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 174" ; dct:creator wd:Q61965386 .
-erm:ERM00000273 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 175" ; dct:creator wd:Q61965386 .
-erm:ERM00000274 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 176" ; dct:creator wd:Q61965386 .
-erm:ERM00000275 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 177" ; dct:creator wd:Q61965386 .
-erm:ERM00000276 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 178" ; dct:creator wd:Q61965386 .
+erm:ERM00000099 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 1" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000100 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 2" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000101 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 3" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000102 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 4" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000103 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 5" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000104 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 6" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000105 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 7" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000106 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 8" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000107 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 9" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000108 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 10" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000109 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 11" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000110 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 12" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000111 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 13" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000112 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 14" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000113 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 15" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000114 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 16" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000115 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 17" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000116 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 18" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000117 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 19" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000118 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 20" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000119 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 21" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000120 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 22" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000121 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 23" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000122 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 24" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000123 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 25" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000124 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 26" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000125 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 27" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000126 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 28" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000127 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 29" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000128 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 30" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000129 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 31" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000130 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 32" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000131 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 33" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000132 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 34" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000133 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 35" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000134 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 36" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000135 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 37" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000136 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 38" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000137 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 39" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000138 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 40" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000139 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 41" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000140 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 42" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000141 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 43" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000142 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 44" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000143 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 45" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000144 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 46" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000145 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 47" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000146 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 48" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000147 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 49" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000148 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 50" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000149 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 51" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000150 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 52" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000151 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 53" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000152 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 54" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000153 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 55" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000154 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 56" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000155 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 57" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000156 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 58" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000157 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 59" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000158 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 60" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000159 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 61" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000160 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 62" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000161 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 63" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000162 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 64" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000163 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 65" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000164 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 66" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000165 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 67" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000166 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 68" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000167 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 69" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000168 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 70" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000169 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 71" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000170 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 72" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000171 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 73" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000172 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 74" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000173 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 75" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000174 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 76" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000175 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 77" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000176 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 78" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000177 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 79" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000178 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 80" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000179 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 81" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000180 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 82" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000181 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 83" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000182 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 84" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000183 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 85" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000184 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 86" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000185 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 87" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000186 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 88" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000187 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 89" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000188 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 90" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000189 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 91" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000190 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 92" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000191 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 93" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000192 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 94" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000193 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 95" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000194 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 96" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000195 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 97" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000196 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 98" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000197 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 99" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000198 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 100" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000199 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 101" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000200 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 102" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000201 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 103" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000202 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 104" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000203 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 105" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000204 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 106" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000205 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 107" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000206 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 108" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000207 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 109" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000208 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 100" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000209 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 111" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000210 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 112" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000211 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 113" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000212 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 114" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000213 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 115" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000214 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 116" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000215 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 117" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000216 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 118" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000217 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 119" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000218 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 110" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000219 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 121" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000220 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 122" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000221 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 123" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000222 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 124" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000223 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 125" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000224 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 126" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000225 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 127" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000226 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 128" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000227 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 129" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000228 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 130" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000229 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 131" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000230 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 132" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000231 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 133" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000232 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 134" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000233 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 135" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000234 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 136" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000235 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 137" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000236 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 138" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000237 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 139" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000238 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 140" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000239 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 141" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000240 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 142" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000241 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 143" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000242 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 144" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000243 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 145" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000244 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 146" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000245 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 147" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000246 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 148" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000247 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 149" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000248 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 150" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000249 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 151" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000250 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 152" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000251 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 153" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000252 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 154" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000253 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 155" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000254 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 156" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000255 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 157" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000256 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 158" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000257 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 159" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000258 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 160" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000259 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 161" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000260 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 162" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000261 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 163" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000262 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 164" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000263 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 165" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000264 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 166" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000265 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 167" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000266 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 168" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000267 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 169" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000268 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 170" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000269 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 171" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000270 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 172" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000271 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 173" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000272 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 174" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000273 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 175" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000274 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 176" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000275 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 177" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000276 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 178" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
 erm:ERM00000277 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M1" ; dct:creator wd:Q61910892 .
 erm:ERM00000278 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M2" ; dct:creator wd:Q61910892 .
 erm:ERM00000279 a obo:CHEBI_59999 ; rdfs:label "Zhang2013 M3" ; dct:creator wd:Q61910892 .
@@ -319,25 +319,25 @@ erm:ERM00000303 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano WP2 M3" ; dct:creator w
 erm:ERM00000304 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano WP2 M4" ; dct:creator wd:Q97096689 .
 erm:ERM00000305 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano WP2 M5" ; dct:creator wd:Q97096689 .
 erm:ERM00000306 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano WP2 M6" ; dct:creator wd:Q97096689 .
-erm:ERM00000307 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 179" ; dct:creator wd:Q61965386 .
-erm:ERM00000308 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 180" ; dct:creator wd:Q61965386 .
-erm:ERM00000309 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 181" ; dct:creator wd:Q61965386 .
-erm:ERM00000310 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 182" ; dct:creator wd:Q61965386 .
-erm:ERM00000311 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 183" ; dct:creator wd:Q61965386 .
-erm:ERM00000312 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 184" ; dct:creator wd:Q61965386 .
-erm:ERM00000313 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 185" ; dct:creator wd:Q61965386 .
-erm:ERM00000314 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 186" ; dct:creator wd:Q61965386 .
-erm:ERM00000315 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 187" ; dct:creator wd:Q61965386 .
-erm:ERM00000316 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 188" ; dct:creator wd:Q61965386 .
-erm:ERM00000317 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 189" ; dct:creator wd:Q61965386 .
-erm:ERM00000318 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 190" ; dct:creator wd:Q61965386 .
-erm:ERM00000319 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 191" ; dct:creator wd:Q61965386 .
-erm:ERM00000320 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 192" ; dct:creator wd:Q61965386 .
-erm:ERM00000321 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 193" ; dct:creator wd:Q61965386 .
-erm:ERM00000322 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 194" ; dct:creator wd:Q61965386 .
-erm:ERM00000323 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 195" ; dct:creator wd:Q61965386 .
-erm:ERM00000324 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 196" ; dct:creator wd:Q61965386 .
-erm:ERM00000325 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 17" ; dct:creator wd:Q61965386 .
+erm:ERM00000307 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 179" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000308 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 180" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000309 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 181" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000310 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 182" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000311 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 183" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000312 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 184" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000313 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 185" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000314 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 186" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000315 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 187" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000316 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 188" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000317 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 189" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000318 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 190" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000319 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 191" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000320 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 192" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000321 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 193" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000322 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 194" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> . 
+erm:ERM00000323 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 195" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000324 a obo:CHEBI_59999 ; rdfs:label "RiskGONE Literature NM 196" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/RiskGONE_Literature_NM.md> .
+erm:ERM00000325 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 17" ; dct:creator wd:Q61965386 ; foaf:page <https://github.com/h2020-riskgone/riskgone-materials/blob/master/identifiers_and_guidance.md#the-nanomaterials> .
 erm:ERM00000326 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 45" ; dct:creator wd:Q61910892 .
 erm:ERM00000327 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 46" ; dct:creator wd:Q61910892 .
 erm:ERM00000328 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 47" ; dct:creator wd:Q61910892 .
