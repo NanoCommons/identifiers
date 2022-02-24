@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6257660.svg)](https://doi.org/10.5281/zenodo.6257660)
+
 # European Registry of Materials
 
 The European Registry of Materials is a simple registry with the sole purpose to mint material
