@@ -10,9 +10,9 @@ authors:
   - family-names: Dokler
     given-names: Joh
 title: European Registry of Materials
-version: 2021-12
+version: 2022-03
 doi: 10.5281/zenodo.6257661
-date-released: 2022-02-24
+date-released: 2022-03-09
 url: "https://github.com/NanoCommons/identifiers"
 preferred-citation:
   type: article
