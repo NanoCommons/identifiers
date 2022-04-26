@@ -10,7 +10,7 @@
     "keywords": "nanosafety, identifier, nanotechnology, material, chemistry",
     "identifier": "https://nanocommons.github.io/identifiers/registry",
     "url": "https://nanocommons.github.io/identifiers/",
-    "archiveAt": "https://doi.org/10.5281/zenodo.6257660",
+    "archivedAt": "https://doi.org/10.5281/zenodo.6257660",
     "provider": {
       "@type": "Organization",
       "name": "NanoCommons",
