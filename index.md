@@ -1,5 +1,23 @@
 # European Registry of Materials
 
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Collection",
+    "name": "European Registry of Materials",
+    "description": "A registry collecting ERM identifers requested by third-party projects to allow annotation materials with a global, unique identifier.",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "keywords": "nanosafety, identifier, nanotechnology, material, chemistry",
+    "identifier": "https://nanocommons.github.io/identifiers/registry",
+    "url": "https://nanocommons.github.io/identifiers/",
+    "provider": {
+      "@type": "Organization",
+      "name": "NanoCommons",
+      "url": "https://www.nanocommons.eu/"
+    }
+  }
+</script>
+
 The European Registry of Materials is a simple registry with the sole purpose to mint material
 identifiers to be used by research projects throughout the life cycle of their project. The
 identifier is nothing more than that identifier, and not by default linked to any information.
