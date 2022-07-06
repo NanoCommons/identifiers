@@ -500,3 +500,27 @@ erm:ERM00000483 a obo:CHEBI_59999 ; rdfs:label "POLYRISK material 2022 23" ; dct
 erm:ERM00000484 a obo:CHEBI_59999 ; rdfs:label "POLYRISK material 2022 24" ; dct:creator wd:Q27061849 .
 erm:ERM00000485 a obo:CHEBI_59999 ; rdfs:label "POLYRISK material 2022 25" ; dct:creator wd:Q27061849 .
 erm:ERM00000486 a obo:CHEBI_59999 ; rdfs:label "POLYRISK material 2022 26" ; dct:creator wd:Q27061849 .
+
+erm:ERM00000487 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material S1" ; dct:creator wd:Q27061849 .
+erm:ERM00000488 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material S2" ; dct:creator wd:Q27061849 .
+erm:ERM00000489 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material S3" ; dct:creator wd:Q27061849 .
+erm:ERM00000490 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material S4" ; dct:creator wd:Q27061849 .
+erm:ERM00000491 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material S5" ; dct:creator wd:Q27061849 .
+erm:ERM00000492 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material S6" ; dct:creator wd:Q27061849 .
+erm:ERM00000493 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material SP1" ; dct:creator wd:Q27061849 .
+erm:ERM00000494 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material SP2" ; dct:creator wd:Q27061849 .
+erm:ERM00000495 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material SP3" ; dct:creator wd:Q27061849 .
+erm:ERM00000496 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material P1" ; dct:creator wd:Q27061849 .
+erm:ERM00000497 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material P2" ; dct:creator wd:Q27061849 .
+erm:ERM00000498 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material P3" ; dct:creator wd:Q27061849 .
+erm:ERM00000499 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material P4" ; dct:creator wd:Q27061849 .
+erm:ERM00000500 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material P5" ; dct:creator wd:Q27061849 .
+erm:ERM00000501 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material P6" ; dct:creator wd:Q27061849 .
+erm:ERM00000502 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material A1" ; dct:creator wd:Q27061849 .
+erm:ERM00000503 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material A2" ; dct:creator wd:Q27061849 .
+erm:ERM00000504 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material A3" ; dct:creator wd:Q27061849 .
+erm:ERM00000505 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material A4" ; dct:creator wd:Q27061849 .
+erm:ERM00000506 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material I1" ; dct:creator wd:Q27061849 .
+erm:ERM00000507 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material I2" ; dct:creator wd:Q27061849 .
+erm:ERM00000508 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material I3" ; dct:creator wd:Q27061849 .
+erm:ERM00000509 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material 14" ; dct:creator wd:Q27061849 .
