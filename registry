@@ -524,3 +524,46 @@ erm:ERM00000506 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material I1" ;
 erm:ERM00000507 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material I2" ; dct:creator wd:Q27061849 .
 erm:ERM00000508 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material I3" ; dct:creator wd:Q27061849 .
 erm:ERM00000509 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material 14" ; dct:creator wd:Q27061849 .
+
+
+erm:ERM00000510 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA use case 2 material 1" ; dct:creator wd:Q27061849 .
+erm:ERM00000511 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA use case 2 material 2" ; dct:creator wd:Q27061849 .
+erm:ERM00000512 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA use case 2 material 3" ; dct:creator wd:Q27061849 .
+erm:ERM00000513 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA use case 2 material 4" ; dct:creator wd:Q27061849 .
+erm:ERM00000514 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA use case 2 material 5" ; dct:creator wd:Q27061849 .
+erm:ERM00000515 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA use case 2 material 6" ; dct:creator wd:Q27061849 .
+erm:ERM00000516 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA use case 2 material 7" ; dct:creator wd:Q27061849 .
+erm:ERM00000517 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA use case 2 material 8" ; dct:creator wd:Q27061849 .
+erm:ERM00000518 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA use case 2 material 9" ; dct:creator wd:Q27061849 .
+erm:ERM00000519 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA use case 2 material 10" ; dct:creator wd:Q27061849 .
+
+erm:ERM00000520 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material AN 1" ; dct:creator wd:Q27061849 .
+erm:ERM00000521 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material AN 2" ; dct:creator wd:Q27061849 .
+erm:ERM00000522 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material AN 3" ; dct:creator wd:Q27061849 .
+erm:ERM00000523 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material AN 4" ; dct:creator wd:Q27061849 .
+erm:ERM00000524 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material AN 5; dct:creator wd:Q27061849 .
+erm:ERM00000525 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material AN 6" ; dct:creator wd:Q27061849 .
+erm:ERM00000526 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material AN 7" ; dct:creator wd:Q27061849 .
+erm:ERM00000527 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material AN 8" ; dct:creator wd:Q27061849 .
+erm:ERM00000528 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material AN 9" ; dct:creator wd:Q27061849 .
+erm:ERM00000529 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material AN 10" ; dct:creator wd:Q27061849 .
+erm:ERM00000530 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material AN 11" ; dct:creator wd:Q27061849 .
+erm:ERM00000531 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material AN 12" ; dct:creator wd:Q27061849 .
+erm:ERM00000532 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material AN 13" ; dct:creator wd:Q27061849 .
+erm:ERM00000533 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material AN 14" ; dct:creator wd:Q27061849 .
+erm:ERM00000534 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material AN 15" ; dct:creator wd:Q27061849 .
+
+erm:ERM00000535 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material NTC 1" ; dct:creator wd:Q27061849 .
+erm:ERM00000536 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material NTC 2" ; dct:creator wd:Q27061849 .
+erm:ERM00000537 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material NTC 3" ; dct:creator wd:Q27061849 .
+erm:ERM00000538 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material NTC 4" ; dct:creator wd:Q27061849 .
+erm:ERM00000539 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material NTC 5; dct:creator wd:Q27061849 .
+erm:ERM00000540 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material NTC 6; dct:creator wd:Q27061849 .
+erm:ERM00000541 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material NTC 7; dct:creator wd:Q27061849 .
+
+erm:ERM00000542 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material CNANO 1; dct:creator wd:Q27061849 .
+erm:ERM00000543 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material CNANO 2; dct:creator wd:Q27061849 .
+erm:ERM00000544 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material CNANO 3; dct:creator wd:Q27061849 .
+erm:ERM00000545 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material CNANO 4; dct:creator wd:Q27061849 .
+erm:ERM00000546 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material CNANO 5; dct:creator wd:Q27061849 .
+erm:ERM00000547 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material CNANO 5; dct:creator wd:Q27061849 .
