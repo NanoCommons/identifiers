@@ -46,13 +46,16 @@ short identifier with "https://nanocommons.github.io/identifiers/registry#".
 ## Registered materials
 
 * the full list can be found at [https://nanocommons.github.io/identifiers/registry](https://nanocommons.github.io/identifiers/registry) (Turtle format)
-* ERM00000001-ERM00000057 and ERM00000277-ERM00000300 for [NanoSolveIT](https://nanosolveit.eu/)
+* ERM00000001-ERM00000057, ERM00000277-ERM00000300, and ERM00000326-ERM00000461 for [NanoSolveIT](https://nanosolveit.eu/)
 * ERM00000058-ERM00000059 for [NanoFASE](http://www.nanofase.eu/)
 * ERM00000060-ERM00000067, ERM00000083-ERM00000090, ERM00000099-ERM00000276 and ERM00000307-ERM00000324 for [RiskGONE](https://riskgone.wp.nilu.no)
 * ERM00000068-ERM00000073 for [NanoTest](http://www.nanotest-fp7.eu/)
 * ERM00000074-ERM00000082 for [caLIBRAte](http://www.nanocalibrate.eu/home)
 * ERM00000091-ERM00000098 and ERM00000301-ERM00000306 for [SbD4Nano](https://www.sbd4nano.eu/)
-* < you can be the seventh >
+* ERM00000462-ERM00000486 for [POLYRISK](https://polyrisk.science/)
+* ERM00000487-ERM00000509 for [HARMLESS](https://www.harmless-project.eu/)
+* ERM00000510-ERM00000547 for [SABYDOMA](https://www.sabydoma.eu/)
+* < you can be next >
 
 ## Acknowledgement
 
