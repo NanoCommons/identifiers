@@ -14,7 +14,7 @@ identifier to be used in descriptions of experimental designs, in (open) noteboo
 in project milestones and deliverables, and in journal articles.
 
 More information and use cases can be found in this
-[preprint](https://chemrxiv.org/engage/chemrxiv/article-details/60e6e05a338e92a5cd08ff69).
+[paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00614-7).
 
 ## The identifier
 
