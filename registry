@@ -5,8 +5,8 @@
 @prefix obo: <http://purl.obolibrary.org/obo/> .
 @prefix cordis: <https://cordis.europa.eu/project/id/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix wd: https://www.wikidata.org/entity/> .
-@prefix orcid: https://orcid.org/> .
+@prefix wd: <https://www.wikidata.org/entity/> .
+@prefix orcid: <https://orcid.org/> .
 
 wd:Q55095491 rdfs:label "NanoTEST"; foaf:page cordis:201335 .
 wd:Q55094321 rdfs:label "NanoFASE"; foaf:page cordis:646002 .
@@ -15,7 +15,7 @@ wd:Q61965386 rdfs:label "RiskGONE"; foaf:page cordis:814425 .
 wd:Q61910892 rdfs:label "NanoSolveIT"; foaf:page cordis:814572 .
 wd:Q97096689 rdfs:label "SbD4Nano"; foaf:page cordis:862195 .
 wd:Q27061849 rdfs:label "Nina Jeliazkova"; foaf:page orcid:0000-0002-4322-6179 .
-wd:Q114727201 rdfs:label "ASINA"; foaf:page <https://www.asina-project.eu/>
+wd:Q114727201 rdfs:label "ASINA"; foaf:page <https://www.asina-project.eu/> .
 
 erm:ERM00000001 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 1" ; dct:creator wd:Q61910892 .
 erm:ERM00000002 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 2" ; dct:creator wd:Q61910892 .
@@ -544,7 +544,7 @@ erm:ERM00000520 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material AN 1" ; dct:cr
 erm:ERM00000521 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material AN 2" ; dct:creator wd:Q27061849 .
 erm:ERM00000522 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material AN 3" ; dct:creator wd:Q27061849 .
 erm:ERM00000523 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material AN 4" ; dct:creator wd:Q27061849 .
-erm:ERM00000524 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material AN 5; dct:creator wd:Q27061849 .
+erm:ERM00000524 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material AN 5"; dct:creator wd:Q27061849 .
 erm:ERM00000525 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material AN 6" ; dct:creator wd:Q27061849 .
 erm:ERM00000526 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material AN 7" ; dct:creator wd:Q27061849 .
 erm:ERM00000527 a obo:CHEBI_59999 ; rdfs:label "SABYDOMA material AN 8" ; dct:creator wd:Q27061849 .
@@ -605,5 +605,4 @@ erm:ERM00000578 a obo:CHEBI_59999 ; rdfs:label "ASINA_VC1_AGHEC_2.8_2.8_SSbD"; o
 erm:ERM00000579 a obo:CHEBI_59999 ; rdfs:label "ASINA_VC1_AGHEC_2.8_3.7_SSbD"; obo:RO_0001000 erm:ERM00000559; dct:creator wd:Q114727201 .
 erm:ERM00000580 a obo:CHEBI_59999 ; rdfs:label "ASINA_VC1_AgCURCUMINE_SSbD"; dct:creator wd:Q114727201 .
 erm:ERM00000581 a obo:CHEBI_59999 ; rdfs:label "ASINA_VC1_AgCURCUMINE/Casein_SSbD"; dct:creator wd:Q114727201 .
-
 
