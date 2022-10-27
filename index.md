@@ -50,7 +50,7 @@ short identifier with "https://nanocommons.github.io/identifiers/registry#".
 * ERM00000058-ERM00000059 for [NanoFASE](http://www.nanofase.eu/)
 * ERM00000060-ERM00000067, ERM00000083-ERM00000090, ERM00000099-ERM00000276 and ERM00000307-ERM00000324 for [RiskGONE](https://riskgone.wp.nilu.no)
 * ERM00000068-ERM00000073 for [NanoTest](http://www.nanotest-fp7.eu/)
-* ERM00000074-ERM00000082 for [caLIBRAte](http://www.nanocalibrate.eu/home)
+* ERM00000074-ERM00000082 for [caLIBRAte](https://cordis.europa.eu/project/id/686239)
 * ERM00000091-ERM00000098 and ERM00000301-ERM00000306 for [SbD4Nano](https://www.sbd4nano.eu/)
 * ERM00000462-ERM00000486 for [POLYRISK](https://polyrisk.science/)
 * ERM00000487-ERM00000509 for [HARMLESS](https://www.harmless-project.eu/)
