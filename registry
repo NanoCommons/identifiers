@@ -605,4 +605,6 @@ erm:ERM00000578 a obo:CHEBI_59999 ; rdfs:label "ASINA_VC1_AGHEC_2.8_2.8_SSbD"; o
 erm:ERM00000579 a obo:CHEBI_59999 ; rdfs:label "ASINA_VC1_AGHEC_2.8_3.7_SSbD"; obo:RO_0001000 erm:ERM00000559; dct:creator wd:Q114727201 .
 erm:ERM00000580 a obo:CHEBI_59999 ; rdfs:label "ASINA_VC1_AgCURCUMINE_SSbD"; dct:creator wd:Q114727201 .
 erm:ERM00000581 a obo:CHEBI_59999 ; rdfs:label "ASINA_VC1_AgCURCUMINE/Casein_SSbD"; dct:creator wd:Q114727201 .
-
+erm:ERM00000582 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 18" ; dct:creator wd:Q61965386 .
+erm:ERM00000583 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 19" ; dct:creator wd:Q61965386 .
+erm:ERM00000584 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 20" ; dct:creator wd:Q61965386 .
