@@ -608,3 +608,5 @@ erm:ERM00000581 a obo:CHEBI_59999 ; rdfs:label "ASINA_VC1_AgCURCUMINE/Casein_SSb
 erm:ERM00000582 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 18" ; dct:creator wd:Q61965386 .
 erm:ERM00000583 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 19" ; dct:creator wd:Q61965386 .
 erm:ERM00000584 a obo:CHEBI_59999 ; rdfs:label "RiskGONE NM 20" ; dct:creator wd:Q61965386 .
+erm:ERM00000585 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 9" ; dct:creator wd:Q97096689 .
+erm:ERM00000586 a obo:CHEBI_59999 ; rdfs:label "SbD4Nano NM 10" ; dct:creator wd:Q97096689 .
