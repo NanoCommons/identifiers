@@ -630,4 +630,5 @@ erm:ERM00000603 a obo:CHEBI_59999 ; rdfs:label "Sbd4Nano Modified NM17"; dct:cre
 erm:ERM00000604 a obo:CHEBI_59999 ; rdfs:label "Sbd4Nano Modified NM18"; dct:creator wd:Q97096689 .
 erm:ERM00000605 a obo:CHEBI_59999 ; rdfs:label "Sbd4Nano Modified NM19"; dct:creator wd:Q97096689 .
 erm:ERM00000606 a obo:CHEBI_59999 ; rdfs:label "Sbd4Nano Modified NM20"; dct:creator wd:Q97096689 .
-
+erm:ERM00000607 a obo:CHEBI_59999 ; rdfs:label "Sbd4Nano Modified NM21"; dct:creator wd:Q97096689 .
+erm:ERM00000608 a obo:CHEBI_59999 ; rdfs:label "Sbd4Nano NM11"; dct:creator wd:Q97096689 .
