@@ -13,8 +13,10 @@ whole study, from the design to the final reporting. It is meant to be used as u
 identifier to be used in descriptions of experimental designs, in (open) notebooks, in reports,
 in project milestones and deliverables, and in journal articles.
 
-More information and use cases can be found in this
-[paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00614-7).
+More information and use cases can be found in
+[this paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00614-7):
+
+*Van Rijn, J., Afantitis, A., Culha, M. et al. European Registry of Materials: global, unique identifiers for (undisclosed) nanomaterials. J Cheminform 14, 57 (2022). doi:[10.1186/s13321-022-00614-7](https://doi.org/10.1186/s13321-022-00614-7)*.
 
 ## The identifier
 
