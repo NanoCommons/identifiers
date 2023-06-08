@@ -28,7 +28,11 @@ CHEMINF_000569 and part of the eNanoMapper ontology (version 6).
 ## The associated information
 
 To encourage wide adoption, the information that the registry will provide is kept to a minimum.
-This registry is not a database.
+This registry is not a database, though one is planned. For now, you can search for ERM identifiers
+in the following resources, e.g.:
+
+* [Google Dataset Search](https://datasetsearch.research.google.com/search?query=ERM00000402)
+* [Europe PMC](https://europepmc.org/search?query=ERM00000559)
 
 ### Required information
 
