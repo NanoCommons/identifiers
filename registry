@@ -633,3 +633,8 @@ erm:ERM00000606 a obo:CHEBI_59999 ; rdfs:label "Sbd4Nano Modified NM20"; dct:cre
 erm:ERM00000607 a obo:CHEBI_59999 ; rdfs:label "Sbd4Nano Modified NM21"; dct:creator wd:Q97096689 .
 erm:ERM00000608 a obo:CHEBI_59999 ; rdfs:label "Sbd4Nano NM11"; dct:creator wd:Q97096689 .
 erm:ERM00000609 a obo:CHEBI_59999 ; rdfs:label "Sbd4Nano Modified NM22"; dct:creator wd:Q97096689 .
+erm:ERM00000610 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material K1"; dct:creator wd:Q61910892 .
+erm:ERM00000611 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material K2"; dct:creator wd:Q61910892 .
+erm:ERM00000612 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material K3"; dct:creator wd:Q61910892 .
+erm:ERM00000613 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material K4"; dct:creator wd:Q61910892 .
+erm:ERM00000614 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material K5"; dct:creator wd:Q61910892 .
