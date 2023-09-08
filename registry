@@ -638,3 +638,10 @@ erm:ERM00000611 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material K2"; dct:cr
 erm:ERM00000612 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material K3"; dct:creator wd:Q61910892 .
 erm:ERM00000613 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material K4"; dct:creator wd:Q61910892 .
 erm:ERM00000614 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material K5"; dct:creator wd:Q61910892 .
+erm:ERM00000615 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material G1"; dct:creator wd:Q61910892 .
+erm:ERM00000616 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material G2"; dct:creator wd:Q61910892 .
+erm:ERM00000617 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material G3"; dct:creator wd:Q61910892 .
+erm:ERM00000618 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material G4"; dct:creator wd:Q61910892 .
+erm:ERM00000619 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material G5"; dct:creator wd:Q61910892 .
+erm:ERM00000620 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material G6"; dct:creator wd:Q61910892 .
+erm:ERM00000621 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material G7"; dct:creator wd:Q61910892 .
