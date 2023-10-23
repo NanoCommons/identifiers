@@ -654,3 +654,10 @@ erm:ERM00000627 a obo:CHEBI_59999 ; rdfs:label "NanoFASE/NanoSolveIT M6" ; dct:c
 erm:ERM00000628 a obo:CHEBI_59999 ; rdfs:label "NanoFASE/NanoSolveIT M7" ; dct:creator wd:Q55094321 .
 erm:ERM00000629 a obo:CHEBI_59999 ; rdfs:label "NanoFASE/NanoSolveIT M8" ; dct:creator wd:Q55094321 .
 erm:ERM00000630 a obo:CHEBI_59999 ; rdfs:label "NanoFASE/NanoSolveIT M9" ; dct:creator wd:Q55094321 .
+
+erm:ERM00000631 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material derived from ERM00000488" ; dct:creator wd:Q27061849 .
+erm:ERM00000632 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material derived from ERM00000491" ; dct:creator wd:Q27061849 .
+erm:ERM00000633 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material DWCNT" ; dct:creator wd:Q27061849 .
+erm:ERM00000634 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material PP" ; dct:creator wd:Q27061849 .
+erm:ERM00000635 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material PPS" ; dct:creator wd:Q27061849 .
+erm:ERM00000636 a obo:CHEBI_59999 ; rdfs:label "HARMLESS use case material FR" ; dct:creator wd:Q27061849 .
