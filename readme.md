@@ -23,16 +23,19 @@ More information and use cases can be found in
 The identifier can be used in two ways. For regular writing, it can be used as in its compact
 form. For semantic web approaches, the full IRI can be used. Both will be considered equivalent
 and refer to the same identifier. The identifier is described by the CHEMINF ontology term 
-CHEMINF_000569 and part of the eNanoMapper ontology (version 6).
+CHEMINF_000569 and part of the eNanoMapper ontology ([version 6](https://github.com/enanomapper/ontologies/releases/tag/v6.0)).
 
 ## The associated information
 
 To encourage wide adoption, the information that the registry will provide is kept to a minimum.
-This registry is not a database, though one is planned. For now, you can search for ERM identifiers
-in the following resources, e.g.:
+This registry is not a database. In 2023 a [database of ERM identifiers](https://nanocommons.github.io/erm-database/)
+with public, online information was created.
+
+Additionally, you can search for ERM identifiers in the following resources, e.g.:
 
 * [Google Dataset Search](https://datasetsearch.research.google.com/search?query=ERM00000402)
 * [Europe PMC](https://europepmc.org/search?query=ERM00000559)
+* [DuckDuckGo](https://duckduckgo.com/?q=%22ERM00000064%22)
 
 ### Required information
 
