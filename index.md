@@ -53,8 +53,10 @@ short identifier with "https://nanocommons.github.io/identifiers/registry#".
 * ERM00000074-ERM00000082 for [caLIBRAte](https://cordis.europa.eu/project/id/686239)
 * ERM00000091-ERM00000098 and ERM00000301-ERM00000306 for [SbD4Nano](https://www.sbd4nano.eu/)
 * ERM00000462-ERM00000486 for [POLYRISK](https://polyrisk.science/)
-* ERM00000487-ERM00000509 for [HARMLESS](https://www.harmless-project.eu/)
+* ERM00000487-ERM00000509 and ERM00000631-ERM00000636 for [HARMLESS](https://www.harmless-project.eu/)
 * ERM00000510-ERM00000547 for [SABYDOMA](https://www.sabydoma.eu/)
+* ERM00000637-ERM00000662 for [CheMatSustain](https://chematsustain.eu/)
+
 * < you can be next >
 
 ## Acknowledgement
