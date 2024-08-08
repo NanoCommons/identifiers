@@ -17,6 +17,7 @@ wd:Q97096689 rdfs:label "SbD4Nano"; foaf:page cordis:862195 .
 wd:Q27061849 rdfs:label "Nina Jeliazkova"; foaf:page orcid:0000-0002-4322-6179 .
 wd:Q114727201 rdfs:label "ASINA"; foaf:page <https://www.asina-project.eu/> .
 wd:Q128211422 rdfs:label "CheMatSustain"; foaf:page cordis:101137990 .
+wd:Q128774044 rdfs:label "MOMENTUM"; foaf:page <https://momentummicroplastics.nl/> .
 
 erm:ERM00000001 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 1" ; dct:creator wd:Q61910892 .
 erm:ERM00000002 a obo:CHEBI_59999 ; rdfs:label "NanoSolveIT Material 2" ; dct:creator wd:Q61910892 .
@@ -690,3 +691,5 @@ erm:ERM00000660 a obo:CHEBI_59999 ; dct:creator wd:Q128211422 .
 erm:ERM00000661 a obo:CHEBI_59999 ; dct:creator wd:Q128211422 .
 erm:ERM00000662 a obo:CHEBI_59999 ; dct:creator wd:Q128211422 .
 
+erm:ERM00000663 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
+erm:ERM00000664 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
