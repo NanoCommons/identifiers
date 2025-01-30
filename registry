@@ -694,31 +694,31 @@ erm:ERM00000662 a obo:CHEBI_59999 ; dct:creator wd:Q128211422 .
 erm:ERM00000663 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
 erm:ERM00000664 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
 
-erm:ERM00000665 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
-erm:ERM00000666 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
-erm:ERM00000667 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
-erm:ERM00000668 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
-erm:ERM00000669 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
-erm:ERM00000670 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
-erm:ERM00000671 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
-erm:ERM00000672 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
-erm:ERM00000673 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
-erm:ERM00000674 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
-erm:ERM00000675 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
-erm:ERM00000676 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
-erm:ERM00000677 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
-erm:ERM00000678 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
-erm:ERM00000679 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
-erm:ERM00000680 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
-erm:ERM00000681 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
-erm:ERM00000682 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
-erm:ERM00000683 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
-erm:ERM00000684 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
-erm:ERM00000685 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
-erm:ERM00000686 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
-erm:ERM00000687 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
-erm:ERM00000688 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
-erm:ERM00000689 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
-erm:ERM00000690 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
-erm:ERM00000691 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
-erm:ERM00000692 a obo:CHEBI_59999 ; dct:creator wd:Q128774044 .
+erm:ERM00000665 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 1" ; dct:creator wd:Q128774044 .
+erm:ERM00000666 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 2" ; dct:creator wd:Q128774044 .
+erm:ERM00000667 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 3" ; dct:creator wd:Q128774044 .
+erm:ERM00000668 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 4" ; dct:creator wd:Q128774044 .
+erm:ERM00000669 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 5" ; dct:creator wd:Q128774044 .
+erm:ERM00000670 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 6" ; dct:creator wd:Q128774044 .
+erm:ERM00000671 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 7" ; dct:creator wd:Q128774044 .
+erm:ERM00000672 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 8" ; dct:creator wd:Q128774044 .
+erm:ERM00000673 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 9" ; dct:creator wd:Q128774044 .
+erm:ERM00000674 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 10" ; dct:creator wd:Q128774044 .
+erm:ERM00000675 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 11" ; dct:creator wd:Q128774044 .
+erm:ERM00000676 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 12" ; dct:creator wd:Q128774044 .
+erm:ERM00000677 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 13" ; dct:creator wd:Q128774044 .
+erm:ERM00000678 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 14" ; dct:creator wd:Q128774044 .
+erm:ERM00000679 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 15" ; dct:creator wd:Q128774044 .
+erm:ERM00000680 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 16" ; dct:creator wd:Q128774044 .
+erm:ERM00000681 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 17" ; dct:creator wd:Q128774044 .
+erm:ERM00000682 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 18" ; dct:creator wd:Q128774044 .
+erm:ERM00000683 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 19" ; dct:creator wd:Q128774044 .
+erm:ERM00000684 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 20" ; dct:creator wd:Q128774044 .
+erm:ERM00000685 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 21" ; dct:creator wd:Q128774044 .
+erm:ERM00000686 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 22" ; dct:creator wd:Q128774044 .
+erm:ERM00000687 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 23" ; dct:creator wd:Q128774044 .
+erm:ERM00000688 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 24" ; dct:creator wd:Q128774044 .
+erm:ERM00000689 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 25" ; dct:creator wd:Q128774044 .
+erm:ERM00000690 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 26" ; dct:creator wd:Q128774044 .
+erm:ERM00000691 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 27" ; dct:creator wd:Q128774044 .
+erm:ERM00000692 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 28" ; dct:creator wd:Q128774044 .
