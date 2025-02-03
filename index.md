@@ -56,7 +56,7 @@ short identifier with "https://nanocommons.github.io/identifiers/registry#".
 * ERM00000487-ERM00000509 and ERM00000631-ERM00000636 for [HARMLESS](https://www.harmless-project.eu/)
 * ERM00000510-ERM00000547 for [SABYDOMA](https://www.sabydoma.eu/)
 * ERM00000637-ERM00000662 for [CheMatSustain](https://chematsustain.eu/)
-* ERM00000663-ERM00000664 for [MOMENTUM](https://momentummicroplastics.nl/)
+* ERM00000663-ERM00000692 for [MOMENTUM](https://momentummicroplastics.nl/)
 
 * < you can be next >
 
