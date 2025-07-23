@@ -726,3 +726,7 @@ erm:ERM00000692 a obo:CHEBI_59999 ; rdfs:label "MOMENTUM Material 28" ; dct:crea
 erm:ERM00000693 a obo:CHEBI_59999 ; rdfs:label "ASINA_VC1_Tier2_TiO2-N-SiO2_pwd_SSbD"; dct:creator wd:Q114727201 .
 erm:ERM00000694 a obo:CHEBI_59999 ; rdfs:label "ASINA_VC1_Tier2_TiO2-N-SiO2_ NEP _SSbD"; dct:creator wd:Q114727201 .
 erm:ERM00000695 a obo:CHEBI_59999 ; rdfs:label "ASINA_VC1_Tier2_TiO2-N-SiO2_ Sol _SSbD"; dct:creator wd:Q114727201 .
+
+erm:ERM00000696 a obo:CHEBI_59999 ; rdfs:label "Momentum UV-PET leachate"; dct:creator wd:Q114727201 .
+erm:ERM00000697 a obo:CHEBI_59999 ; rdfs:label "Momentum PET leachate"; dct:creator wd:Q114727201 .
+erm:ERM00000698 a obo:CHEBI_59999 ; rdfs:label "Momentum PP leachate"; dct:creator wd:Q114727201 .
